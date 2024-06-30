@@ -144,5 +144,3 @@ const draw = () => {
   </van-popup>
 
 </template>
-<style scoped>
-</style>
